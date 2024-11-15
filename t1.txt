@@ -1,0 +1,2 @@
+file 1 has been created
+bit 1 ok 
